@@ -16,6 +16,11 @@ public class Repaso {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+         int nicoEdad = 38;
+        String nicoNombre = "Nicolás";
+        
+        System.out.println("Me llamo: "+ nicoNombre);
+        System.out.println("Y tengo "+ nicoEdad);
     }
     
 }
